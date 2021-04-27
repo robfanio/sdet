@@ -1,0 +1,488 @@
+2021-04-09 18:26:56,964 [main] INFO LoginTest - Url is open
+2021-04-09 18:26:57,068 [main] INFO LoginTest - userName input
+2021-04-09 18:26:57,144 [main] INFO LoginTest - password input
+2021-04-09 18:26:57,479 [main] INFO LoginTest - click submit
+2021-04-09 18:28:31,778 [main] INFO BaseTest.java - Url is open
+2021-04-09 18:28:31,900 [main] INFO BaseTest.java - userName input
+2021-04-09 18:28:31,971 [main] INFO BaseTest.java - password input
+2021-04-09 18:28:32,336 [main] INFO BaseTest.java - click submit
+2021-04-09 18:28:48,199 [main] INFO BaseTest - Url is open
+2021-04-09 18:28:48,312 [main] INFO BaseTest - userName input
+2021-04-09 18:28:48,383 [main] INFO BaseTest - password input
+2021-04-09 18:28:48,732 [main] INFO BaseTest - click submit
+2021-04-09 18:29:14,926 [main] INFO Test.BaseTest - Url is open
+2021-04-09 18:29:15,042 [main] INFO Test.BaseTest - userName input
+2021-04-09 18:29:15,113 [main] INFO Test.BaseTest - password input
+2021-04-09 18:29:15,479 [main] INFO Test.BaseTest - click submit
+2021-04-09 18:31:26,436 [main] INFO Test.BaseTest - Url is open
+2021-04-09 18:31:26,550 [main] INFO Test.BaseTest - userName input
+2021-04-09 18:31:26,620 [main] INFO Test.BaseTest - password input
+2021-04-09 18:31:26,952 [main] INFO Test.BaseTest - click submit
+2021-04-09 18:34:53,990 [main] INFO Test.BaseTest - Url is open
+2021-04-09 18:34:54,101 [main] INFO Test.BaseTest - userName input
+2021-04-09 18:34:54,168 [main] INFO Test.BaseTest - password input
+2021-04-09 18:34:54,518 [main] INFO Test.BaseTest - click submit
+2021-04-09 18:34:54,518 [main] FATAL Test.BaseTest - practice
+2021-04-09 19:27:37,909 [main] INFO Test.BaseTest - Url is open
+2021-04-09 19:27:38,018 [main] INFO Test.BaseTest - userName input
+2021-04-09 19:27:38,088 [main] INFO Test.BaseTest - password input
+2021-04-09 19:27:38,460 [main] INFO Test.BaseTest - click submit
+2021-04-09 19:27:38,461 [main] FATAL Test.BaseTest - practice
+2021-04-09 19:39:45,953 [main] INFO Test.BaseTest - Url is open
+2021-04-09 19:39:46,072 [main] INFO Test.BaseTest - userName input
+2021-04-09 19:39:46,142 [main] INFO Test.BaseTest - password input
+2021-04-09 19:39:46,587 [main] INFO Test.BaseTest - click submit
+2021-04-09 19:39:46,588 [main] FATAL Test.BaseTest - practice
+2021-04-09 19:54:23,315 [main] INFO Test.BaseTest - Url is open
+2021-04-09 19:54:23,436 [main] INFO Test.BaseTest - userName input
+2021-04-09 19:54:23,503 [main] INFO Test.BaseTest - password input
+2021-04-09 19:54:23,892 [main] INFO Test.BaseTest - click submit
+2021-04-09 19:54:23,893 [main] FATAL Test.BaseTest - practice
+2021-04-09 19:56:35,687 [main] INFO Test.BaseTest - Url is open
+2021-04-09 19:56:35,806 [main] INFO Test.BaseTest - userName input
+2021-04-09 19:56:35,879 [main] INFO Test.BaseTest - password input
+2021-04-09 19:56:36,281 [main] INFO Test.BaseTest - click submit
+2021-04-09 19:56:36,281 [main] FATAL Test.BaseTest - practice
+2021-04-09 20:00:54,931 [main] INFO Test.BaseTest - Url is open
+2021-04-09 20:00:55,014 [main] INFO Test.BaseTest - userName input
+2021-04-09 20:00:55,053 [main] INFO Test.BaseTest - password input
+2021-04-09 20:00:55,385 [main] INFO Test.BaseTest - click submit
+2021-04-09 20:00:55,385 [main] FATAL Test.BaseTest - practice
+2021-04-09 20:01:18,541 [main] INFO Test.BaseTest - Url is open
+2021-04-09 20:01:18,657 [main] INFO Test.BaseTest - userName input
+2021-04-09 20:01:18,727 [main] INFO Test.BaseTest - password input
+2021-04-09 20:01:19,084 [main] INFO Test.BaseTest - click submit
+2021-04-09 20:01:19,085 [main] FATAL Test.BaseTest - practice
+2021-04-09 20:08:06,401 [main] INFO Test.BaseTest - Url is open
+2021-04-09 20:08:06,500 [main] INFO Test.BaseTest - userName input
+2021-04-09 20:08:06,580 [main] INFO Test.BaseTest - password input
+2021-04-09 20:08:06,946 [main] INFO Test.BaseTest - click submit
+2021-04-09 20:08:06,946 [main] FATAL Test.BaseTest - practice
+2021-04-09 21:31:40,358 [main] INFO Test.BaseTest - userName input
+2021-04-09 21:31:40,404 [main] INFO Test.BaseTest - password input
+2021-04-09 21:31:41,050 [main] INFO Test.BaseTest - click submit
+2021-04-09 21:31:41,050 [main] FATAL Test.BaseTest - practice
+2021-04-09 21:43:17,374 [main] INFO Test.BaseTest - userName input
+2021-04-09 21:43:17,465 [main] INFO Test.BaseTest - password input
+2021-04-09 21:43:18,065 [main] INFO Test.BaseTest - click submit
+2021-04-09 21:43:18,065 [main] FATAL Test.BaseTest - practice
+2021-04-09 23:03:47,496 [main] INFO Test.BaseTest - userName input
+2021-04-09 23:03:47,570 [main] INFO Test.BaseTest - password input
+2021-04-09 23:03:47,906 [main] INFO Test.BaseTest - click submit
+2021-04-09 23:03:47,906 [main] FATAL Test.BaseTest - practice
+2021-04-09 23:11:20,190 [main] INFO Test.BaseTest - open url
+2021-04-09 23:11:54,321 [main] INFO Test.BaseTest - open url
+2021-04-09 23:11:55,142 [main] INFO Test.BaseTest - userName input
+2021-04-09 23:11:55,200 [main] INFO Test.BaseTest - password input
+2021-04-09 23:11:55,534 [main] INFO Test.BaseTest - click submit
+2021-04-09 23:11:55,534 [main] FATAL Test.BaseTest - practice
+2021-04-09 23:12:38,023 [main] INFO Test.BaseTest - open url
+2021-04-09 23:12:38,895 [main] INFO Test.BaseTest - userName input
+2021-04-09 23:12:38,957 [main] INFO Test.BaseTest - password input
+2021-04-09 23:12:39,374 [main] INFO Test.BaseTest - click submit
+2021-04-09 23:12:39,374 [main] FATAL Test.BaseTest - practice
+2021-04-09 23:14:41,080 [main] INFO Test.BaseTest - open url
+2021-04-09 23:14:41,954 [main] INFO Test.BaseTest - userName input
+2021-04-09 23:14:42,025 [main] INFO Test.BaseTest - password input
+2021-04-09 23:14:42,460 [main] INFO Test.BaseTest - click submit
+2021-04-09 23:14:42,460 [main] FATAL Test.BaseTest - practice
+2021-04-09 23:15:04,271 [main] INFO Test.BaseTest - open url
+2021-04-09 23:15:05,083 [main] INFO Test.BaseTest - userName input
+2021-04-09 23:15:05,156 [main] INFO Test.BaseTest - password input
+2021-04-09 23:15:05,594 [main] INFO Test.BaseTest - click submit
+2021-04-09 23:15:05,595 [main] FATAL Test.BaseTest - practice
+2021-04-09 23:15:29,417 [main] INFO Test.BaseTest - open url
+2021-04-09 23:15:30,314 [main] INFO Test.BaseTest - userName input
+2021-04-09 23:15:30,384 [main] INFO Test.BaseTest - password input
+2021-04-09 23:15:30,782 [main] INFO Test.BaseTest - click submit
+2021-04-09 23:15:30,782 [main] FATAL Test.BaseTest - practice
+2021-04-09 23:15:53,862 [main] INFO Test.BaseTest - open url
+2021-04-09 23:15:54,685 [main] INFO Test.BaseTest - userName input
+2021-04-09 23:15:54,764 [main] INFO Test.BaseTest - password input
+2021-04-09 23:15:55,205 [main] INFO Test.BaseTest - click submit
+2021-04-09 23:15:55,205 [main] FATAL Test.BaseTest - practice
+2021-04-09 23:16:20,818 [main] INFO Test.BaseTest - open url
+2021-04-09 23:16:21,678 [main] INFO Test.BaseTest - userName input
+2021-04-09 23:16:21,735 [main] INFO Test.BaseTest - password input
+2021-04-09 23:16:22,217 [main] INFO Test.BaseTest - click submit
+2021-04-09 23:16:22,218 [main] FATAL Test.BaseTest - practice
+2021-04-09 23:17:30,501 [main] INFO Test.BaseTest - open url
+2021-04-09 23:17:31,432 [main] INFO Test.BaseTest - userName input
+2021-04-09 23:17:31,465 [main] INFO Test.BaseTest - password input
+2021-04-09 23:17:31,769 [main] INFO Test.BaseTest - click submit
+2021-04-09 23:17:31,769 [main] FATAL Test.BaseTest - practice
+2021-04-09 23:17:51,267 [main] INFO Test.BaseTest - open url
+2021-04-09 23:18:09,250 [main] INFO Test.BaseTest - open url
+2021-04-09 23:18:27,648 [main] INFO Test.BaseTest - open url
+2021-04-09 23:19:40,891 [main] INFO Test.BaseTest - open url
+2021-04-09 23:20:26,760 [main] INFO Test.BaseTest - open url
+2021-04-09 23:20:27,632 [main] INFO Test.BaseTest - userName input
+2021-04-09 23:20:27,706 [main] INFO Test.BaseTest - password input
+2021-04-09 23:20:28,061 [main] INFO Test.BaseTest - click submit
+2021-04-09 23:20:28,062 [main] FATAL Test.BaseTest - practice
+2021-04-10 09:16:45,066 [main] INFO Test.BaseTest - open url
+2021-04-10 09:16:45,961 [main] INFO Test.BaseTest - userName input
+2021-04-10 09:16:46,023 [main] INFO Test.BaseTest - password input
+2021-04-10 09:16:46,389 [main] INFO Test.BaseTest - click submit
+2021-04-10 09:16:46,389 [main] FATAL Test.BaseTest - practice
+2021-04-10 16:02:12,411 [main] INFO Test.BaseTest - open url
+2021-04-10 16:02:13,442 [main] INFO Test.BaseTest - userName input
+2021-04-10 16:02:13,506 [main] INFO Test.BaseTest - password input
+2021-04-10 16:02:13,906 [main] INFO Test.BaseTest - click submit
+2021-04-10 16:02:13,906 [main] FATAL Test.BaseTest - practice
+2021-04-10 16:02:59,237 [main] INFO Test.BaseTest - open url
+2021-04-10 16:03:00,184 [main] INFO Test.BaseTest - userName input
+2021-04-10 16:03:00,262 [main] INFO Test.BaseTest - password input
+2021-04-10 16:03:00,690 [main] INFO Test.BaseTest - click submit
+2021-04-10 16:03:00,690 [main] FATAL Test.BaseTest - practice
+2021-04-10 17:01:00,870 [main] INFO Test.BaseTest - open url
+2021-04-10 17:01:01,846 [main] INFO Test.BaseTest - userName input
+2021-04-10 17:01:01,883 [main] INFO Test.BaseTest - password input
+2021-04-10 17:01:02,208 [main] INFO Test.BaseTest - click submit
+2021-04-10 17:01:02,209 [main] FATAL Test.BaseTest - practice
+2021-04-10 17:01:25,031 [main] INFO Test.BaseTest - open url
+2021-04-12 09:52:44,616 [main] INFO Test.BaseTest - open url
+2021-04-12 09:54:49,089 [main] INFO Test.BaseTest - open url
+2021-04-12 09:54:49,964 [main] INFO Test.BaseTest - userName input
+2021-04-12 09:54:50,034 [main] INFO Test.BaseTest - password input
+2021-04-12 09:54:50,474 [main] INFO Test.BaseTest - click submit
+2021-04-12 09:54:50,474 [main] FATAL Test.BaseTest - practice
+2021-04-12 10:15:00,310 [main] INFO Test.LoginTest - open url
+2021-04-12 10:15:01,209 [main] INFO Test.LoginTest - userName input
+2021-04-12 10:15:01,283 [main] INFO Test.LoginTest - password input
+2021-04-12 10:15:02,007 [main] INFO Test.LoginTest - click submit
+2021-04-12 10:15:02,008 [main] FATAL Test.LoginTest - practice
+2021-04-12 10:23:59,849 [main] INFO Functional - open url
+2021-04-12 10:24:00,793 [main] INFO Functional - userName input
+2021-04-12 10:24:00,866 [main] INFO Functional - password input
+2021-04-12 10:24:01,222 [main] INFO Functional - click submit
+2021-04-12 10:24:01,223 [main] FATAL Functional - practice
+2021-04-12 10:29:42,418 [main] INFO Functional - open url
+2021-04-12 10:29:43,346 [main] INFO Functional - userName input
+2021-04-12 10:29:43,420 [main] INFO Functional - password input
+2021-04-12 10:29:43,791 [main] INFO Functional - click submit
+2021-04-12 10:29:43,792 [main] FATAL Functional - practice
+2021-04-12 10:31:15,992 [main] INFO Functional - open url
+2021-04-12 10:31:16,827 [main] INFO Functional - userName input
+2021-04-12 10:31:16,907 [main] INFO Functional - password input
+2021-04-12 10:31:17,354 [main] INFO Functional - click submit
+2021-04-12 10:31:17,354 [main] FATAL Functional - practice
+2021-04-12 10:37:22,023 [main] INFO Functional - open url
+2021-04-12 10:37:22,871 [main] INFO Functional - userName input
+2021-04-12 10:37:22,933 [main] INFO Functional - password input
+2021-04-12 10:37:23,312 [main] INFO Functional - click submit
+2021-04-12 10:37:23,312 [main] FATAL Functional - practice
+2021-04-12 11:32:34,279 [main] INFO Functional - open url
+2021-04-12 11:32:35,219 [main] INFO Functional - userName input
+2021-04-12 11:32:35,291 [main] INFO Functional - password input
+2021-04-12 11:32:35,779 [main] INFO Functional - click submit
+2021-04-12 11:32:35,780 [main] FATAL Functional - practice
+2021-04-12 11:36:09,457 [main] INFO Functional - open url
+2021-04-12 11:36:10,351 [main] INFO Functional - userName input
+2021-04-12 11:36:10,422 [main] INFO Functional - password input
+2021-04-12 11:36:10,763 [main] INFO Functional - click submit
+2021-04-12 11:36:10,764 [main] FATAL Functional - practice
+2021-04-12 12:05:39,610 [main] INFO Functional - open url
+2021-04-12 12:05:40,466 [main] INFO Functional - userName input
+2021-04-12 12:05:40,542 [main] INFO Functional - password input
+2021-04-12 12:05:40,886 [main] INFO Functional - click submit
+2021-04-12 12:05:40,886 [main] FATAL Functional - practice
+2021-04-12 12:23:07,754 [main] INFO Functional - open url
+2021-04-12 12:23:07,844 [main] INFO Functional - userName input
+2021-04-12 12:23:07,934 [main] INFO Functional - password input
+2021-04-12 12:23:08,318 [main] INFO Functional - click submit
+2021-04-12 12:23:08,319 [main] FATAL Functional - practice
+2021-04-12 12:31:01,817 [main] INFO Functional - open url
+2021-04-12 12:31:01,941 [main] INFO Functional - userName input
+2021-04-12 12:31:02,020 [main] INFO Functional - password input
+2021-04-12 12:31:02,402 [main] INFO Functional - click submit
+2021-04-12 12:31:02,795 [main] INFO Functional - open url
+2021-04-12 12:31:02,893 [main] INFO Functional - userName input
+2021-04-12 12:31:02,964 [main] INFO Functional - password input
+2021-04-12 12:31:03,330 [main] INFO Functional - click submit
+2021-04-12 12:31:03,331 [main] FATAL Functional - practice
+2021-04-12 12:32:03,655 [main] INFO Functional - open url
+2021-04-12 12:32:03,766 [main] INFO Functional - userName input
+2021-04-12 12:32:03,848 [main] INFO Functional - password input
+2021-04-12 12:32:04,194 [main] INFO Functional - click submit
+2021-04-12 12:32:04,536 [main] INFO Functional - open url
+2021-04-12 12:32:04,605 [main] INFO Functional - userName input
+2021-04-12 12:32:04,681 [main] INFO Functional - password input
+2021-04-12 12:32:04,997 [main] INFO Functional - click submit
+2021-04-12 12:32:04,997 [main] FATAL Functional - practice
+2021-04-12 12:36:04,474 [main] INFO Functional - open url
+2021-04-12 12:36:04,568 [main] INFO Functional - userName input
+2021-04-12 12:36:04,640 [main] INFO Functional - password input
+2021-04-12 12:36:05,008 [main] INFO Functional - click submit
+2021-04-12 12:36:05,577 [main] INFO Functional - open url
+2021-04-12 12:36:05,644 [main] INFO Functional - userName input
+2021-04-12 12:36:05,718 [main] INFO Functional - password input
+2021-04-12 12:36:06,016 [main] INFO Functional - click submit
+2021-04-12 12:36:06,017 [main] FATAL Functional - practice
+2021-04-13 13:27:18,830 [main] INFO Functional - open url
+2021-04-13 13:27:18,941 [main] INFO Functional - userName input
+2021-04-13 13:27:19,005 [main] INFO Functional - password input
+2021-04-13 13:27:19,423 [main] INFO Functional - click submit
+2021-04-13 13:27:19,889 [main] INFO Functional - open url
+2021-04-13 13:27:19,968 [main] INFO Functional - userName input
+2021-04-13 13:27:20,038 [main] INFO Functional - password input
+2021-04-13 13:27:20,361 [main] INFO Functional - click submit
+2021-04-13 13:27:20,361 [main] FATAL Functional - practice
+2021-04-14 11:44:29,236 [main] INFO Functional - open url
+2021-04-14 11:44:29,395 [main] INFO Functional - userName input
+2021-04-14 11:44:29,502 [main] INFO Functional - password input
+2021-04-14 11:44:30,017 [main] INFO Functional - click submit
+2021-04-14 11:44:30,491 [main] INFO Functional - open url
+2021-04-14 11:44:30,587 [main] INFO Functional - userName input
+2021-04-14 11:44:30,668 [main] INFO Functional - password input
+2021-04-14 11:44:31,050 [main] INFO Functional - click submit
+2021-04-14 11:44:31,051 [main] FATAL Functional - practice
+2021-04-14 12:00:37,665 [main] INFO Functional - open url
+2021-04-14 12:00:37,810 [main] INFO Functional - userName input
+2021-04-14 12:00:37,940 [main] INFO Functional - password input
+2021-04-14 12:00:38,366 [main] INFO Functional - click submit
+2021-04-14 12:00:38,785 [main] INFO Functional - open url
+2021-04-14 12:00:38,883 [main] INFO Functional - userName input
+2021-04-14 12:00:38,996 [main] INFO Functional - password input
+2021-04-14 12:00:39,464 [main] INFO Functional - click submit
+2021-04-14 12:00:39,465 [main] FATAL Functional - practice
+2021-04-14 12:12:55,484 [main] INFO Functional - open url
+2021-04-14 12:12:55,610 [main] INFO Functional - userName input
+2021-04-14 12:12:55,720 [main] INFO Functional - password input
+2021-04-14 12:12:56,405 [main] INFO Functional - click submit
+2021-04-14 12:12:56,894 [main] INFO Functional - open url
+2021-04-14 12:12:57,005 [main] INFO Functional - userName input
+2021-04-14 12:12:57,094 [main] INFO Functional - password input
+2021-04-14 12:12:57,542 [main] INFO Functional - click submit
+2021-04-14 12:12:57,544 [main] FATAL Functional - practice
+2021-04-14 12:22:00,361 [main] INFO Functional - open url
+2021-04-14 12:22:00,515 [main] INFO Functional - userName input
+2021-04-14 12:22:00,634 [main] INFO Functional - password input
+2021-04-14 12:22:01,103 [main] INFO Functional - click submit
+2021-04-14 12:22:01,529 [main] INFO Functional - open url
+2021-04-14 12:22:01,645 [main] INFO Functional - userName input
+2021-04-14 12:22:01,749 [main] INFO Functional - password input
+2021-04-14 12:22:02,183 [main] INFO Functional - click submit
+2021-04-14 12:22:02,184 [main] FATAL Functional - practice
+2021-04-14 12:23:25,024 [main] INFO Functional - open url
+2021-04-14 12:23:25,175 [main] INFO Functional - userName input
+2021-04-14 12:23:25,296 [main] INFO Functional - password input
+2021-04-14 12:23:25,846 [main] INFO Functional - click submit
+2021-04-14 12:23:26,338 [main] INFO Functional - open url
+2021-04-14 12:23:26,426 [main] INFO Functional - userName input
+2021-04-14 12:23:26,537 [main] INFO Functional - password input
+2021-04-14 12:23:26,896 [main] INFO Functional - click submit
+2021-04-14 12:23:26,897 [main] FATAL Functional - practice
+2021-04-14 12:28:11,720 [main] INFO Functional - open url
+2021-04-14 12:28:11,863 [main] INFO Functional - userName input
+2021-04-14 12:28:11,981 [main] INFO Functional - password input
+2021-04-14 12:28:12,790 [main] INFO Functional - click submit
+2021-04-14 12:28:13,272 [main] INFO Functional - open url
+2021-04-14 12:28:13,728 [main] INFO Functional - open url
+2021-04-14 12:28:13,827 [main] INFO Functional - userName input
+2021-04-14 12:28:13,913 [main] INFO Functional - password input
+2021-04-14 12:28:14,257 [main] INFO Functional - click submit
+2021-04-14 12:28:14,259 [main] FATAL Functional - practice
+2021-04-22 11:47:48,196 [main] INFO Functional - open url
+2021-04-22 11:47:49,239 [main] INFO Functional - open url
+2021-04-22 11:47:49,492 [main] INFO Functional - open url
+2021-04-22 11:47:49,572 [main] INFO Functional - userName input
+2021-04-22 11:47:49,641 [main] INFO Functional - password input
+2021-04-22 11:47:50,010 [main] INFO Functional - click submit
+2021-04-22 11:47:50,011 [main] FATAL Functional - practice
+2021-04-22 11:57:31,938 [main] INFO Functional - open url
+2021-04-22 11:57:36,155 [main] INFO Functional - open url
+2021-04-22 11:57:36,473 [main] INFO Functional - open url
+2021-04-22 11:57:36,575 [main] INFO Functional - userName input
+2021-04-22 11:57:36,643 [main] INFO Functional - password input
+2021-04-22 11:57:36,968 [main] INFO Functional - click submit
+2021-04-22 11:57:36,968 [main] FATAL Functional - practice
+2021-04-22 13:14:39,001 [main] INFO Functional - open url
+2021-04-22 13:14:39,934 [main] INFO Functional - open url
+2021-04-22 13:14:40,270 [main] INFO Functional - open url
+2021-04-22 13:14:40,344 [main] INFO Functional - userName input
+2021-04-22 13:14:40,418 [main] INFO Functional - password input
+2021-04-22 13:14:41,051 [main] INFO Functional - click submit
+2021-04-22 13:14:41,053 [main] FATAL Functional - practice
+2021-04-22 15:40:44,468 [main] INFO Functional - open url
+2021-04-22 15:40:45,349 [main] INFO Functional - open url
+2021-04-22 15:40:45,634 [main] INFO Functional - open url
+2021-04-22 15:40:45,716 [main] INFO Functional - userName input
+2021-04-22 15:40:45,785 [main] INFO Functional - password input
+2021-04-22 15:40:46,102 [main] INFO Functional - click submit
+2021-04-22 15:40:46,103 [main] FATAL Functional - practice
+2021-04-22 17:19:34,766 [main] INFO Functional - open url
+2021-04-22 17:19:35,591 [main] INFO Functional - open url
+2021-04-22 17:19:36,596 [main] INFO Functional - open url
+2021-04-22 17:19:36,677 [main] INFO Functional - userName input
+2021-04-22 17:19:36,742 [main] INFO Functional - password input
+2021-04-22 17:19:37,048 [main] INFO Functional - click submit
+2021-04-22 17:19:37,048 [main] FATAL Functional - practice
+2021-04-22 17:26:44,621 [main] INFO Functional - open url
+2021-04-22 17:26:45,523 [main] INFO Functional - open url
+2021-04-22 17:26:46,624 [main] INFO Functional - open url
+2021-04-22 17:26:46,708 [main] INFO Functional - userName input
+2021-04-22 17:26:46,785 [main] INFO Functional - password input
+2021-04-22 17:26:47,103 [main] INFO Functional - click submit
+2021-04-22 17:26:47,104 [main] FATAL Functional - practice
+2021-04-22 17:30:07,999 [main] INFO Functional - open url
+2021-04-22 17:30:08,116 [main] INFO Functional - userName input
+2021-04-22 17:30:08,196 [main] INFO Functional - password input
+2021-04-22 17:30:08,690 [main] INFO Functional - click submit
+2021-04-22 17:30:08,690 [main] FATAL Functional - practice
+2021-04-22 17:30:49,219 [main] INFO Functional - open url
+2021-04-22 17:30:50,122 [main] INFO Functional - open url
+2021-04-22 17:30:51,099 [main] INFO Functional - open url
+2021-04-22 17:30:51,173 [main] INFO Functional - userName input
+2021-04-22 17:30:51,249 [main] INFO Functional - password input
+2021-04-22 17:30:51,571 [main] INFO Functional - click submit
+2021-04-22 17:30:51,572 [main] FATAL Functional - practice
+2021-04-22 17:31:17,593 [main] INFO Functional - open url
+2021-04-22 17:31:21,917 [main] INFO Functional - open url
+2021-04-22 17:31:23,049 [main] INFO Functional - open url
+2021-04-22 17:31:23,122 [main] INFO Functional - userName input
+2021-04-22 17:31:23,200 [main] INFO Functional - password input
+2021-04-22 17:31:23,511 [main] INFO Functional - click submit
+2021-04-22 17:31:23,512 [main] FATAL Functional - practice
+2021-04-22 17:35:04,781 [main] INFO Functional - open url
+2021-04-22 17:35:05,785 [main] INFO Functional - open url
+2021-04-22 17:35:06,826 [main] INFO Functional - open url
+2021-04-22 17:35:06,893 [main] INFO Functional - userName input
+2021-04-22 17:35:06,969 [main] INFO Functional - password input
+2021-04-22 17:35:07,272 [main] INFO Functional - click submit
+2021-04-22 17:35:07,272 [main] FATAL Functional - practice
+2021-04-22 17:39:39,058 [main] INFO Functional - open url
+2021-04-22 17:39:39,947 [main] INFO Functional - open url
+2021-04-22 17:39:41,021 [main] INFO Functional - open url
+2021-04-22 17:39:41,021 [main] INFO Functional - SigIn into the website
+2021-04-22 17:39:41,495 [main] INFO Functional - Verified The Title Page
+2021-04-23 10:11:47,976 [main] INFO Functional - open url
+2021-04-23 10:11:48,861 [main] INFO Functional - open url
+2021-04-23 10:11:50,380 [main] INFO Functional - open url
+2021-04-23 10:11:50,381 [main] INFO Functional - SigIn into the website
+2021-04-23 10:11:50,830 [main] INFO Functional - Verified The Title Page
+2021-04-23 10:17:33,200 [main] INFO Functional - open url
+2021-04-23 10:17:34,245 [main] INFO Functional - open url
+2021-04-23 10:17:35,544 [main] INFO Functional - open url
+2021-04-23 10:17:35,544 [main] INFO Functional - SigIn into the website
+2021-04-23 10:17:36,018 [main] INFO Functional - Verified The Title Page
+2021-04-23 10:20:28,603 [main] INFO Functional - open url
+2021-04-23 10:20:29,616 [main] INFO Functional - open url
+2021-04-23 10:20:30,885 [main] INFO Functional - open url
+2021-04-23 10:20:30,886 [main] INFO Functional - SigIn into the website
+2021-04-23 10:20:31,337 [main] INFO Functional - Verified The Title Page
+2021-04-23 10:26:19,899 [main] INFO Functional - open url
+2021-04-23 10:26:20,904 [main] INFO Functional - open url
+2021-04-23 10:26:22,408 [main] INFO Functional - open url
+2021-04-23 10:26:22,408 [main] INFO Functional - SigIn into the website
+2021-04-23 10:26:22,928 [main] INFO Functional - Verified The Title Page
+2021-04-23 10:27:34,320 [main] INFO Functional - open url
+2021-04-23 10:27:35,234 [main] INFO Functional - open url
+2021-04-23 10:27:36,492 [main] INFO Functional - open url
+2021-04-23 10:27:36,492 [main] INFO Functional - SigIn into the website
+2021-04-23 10:27:37,010 [main] INFO Functional - Verified The Title Page
+2021-04-23 10:28:06,014 [main] INFO Functional - open url
+2021-04-23 10:28:06,945 [main] INFO Functional - open url
+2021-04-23 10:28:08,234 [main] INFO Functional - open url
+2021-04-23 10:28:08,235 [main] INFO Functional - SigIn into the website
+2021-04-23 10:28:08,689 [main] INFO Functional - Verified The Title Page
+2021-04-23 17:29:37,925 [main] INFO Functional - open url
+2021-04-23 17:29:38,927 [main] INFO Functional - open url
+2021-04-23 17:29:39,926 [main] INFO Functional - open url
+2021-04-23 17:29:39,926 [main] INFO Functional - SigIn into the website
+2021-04-23 17:29:40,333 [main] INFO Functional - Verified The Title Page
+2021-04-23 17:35:43,028 [main] INFO Functional - open url
+2021-04-23 17:35:44,077 [main] INFO Functional - open url
+2021-04-23 17:35:45,147 [main] INFO Functional - open url
+2021-04-23 17:35:45,147 [main] INFO Functional - SigIn into the website
+2021-04-23 17:35:45,597 [main] INFO Functional - Verified The Title Page
+2021-04-23 17:36:07,631 [main] INFO Functional - open url
+2021-04-23 17:36:08,548 [main] INFO Functional - open url
+2021-04-23 17:36:09,643 [main] INFO Functional - open url
+2021-04-23 17:36:09,643 [main] INFO Functional - SigIn into the website
+2021-04-23 17:36:10,090 [main] INFO Functional - Verified The Title Page
+2021-04-23 18:02:48,471 [main] INFO Functional - open url
+2021-04-23 18:02:49,592 [main] INFO Functional - open url
+2021-04-23 18:02:50,735 [main] INFO Functional - open url
+2021-04-23 18:02:50,736 [main] INFO Functional - SigIn into the website
+2021-04-23 18:02:51,227 [main] INFO Functional - Verified The Title Page
+2021-04-23 18:03:48,524 [main] INFO Functional - open url
+2021-04-23 18:03:49,320 [main] INFO Functional - open url
+2021-04-23 18:03:50,320 [main] INFO Functional - open url
+2021-04-23 18:03:50,321 [main] INFO Functional - SigIn into the website
+2021-04-23 18:03:50,743 [main] INFO Functional - Verified The Title Page
+2021-04-23 18:06:06,492 [main] INFO Functional - open url
+2021-04-23 18:06:10,670 [main] INFO Functional - open url
+2021-04-23 18:06:11,700 [main] INFO Functional - open url
+2021-04-23 18:06:11,700 [main] INFO Functional - SigIn into the website
+2021-04-23 18:06:12,173 [main] INFO Functional - Verified The Title Page
+2021-04-23 18:07:51,345 [main] INFO Functional - open url
+2021-04-23 18:07:52,167 [main] INFO Functional - open url
+2021-04-23 18:07:53,243 [main] INFO Functional - open url
+2021-04-23 18:07:53,244 [main] INFO Functional - SigIn into the website
+2021-04-23 18:07:53,666 [main] INFO Functional - Verified The Title Page
+2021-04-23 18:08:25,795 [main] INFO Functional - open url
+2021-04-23 18:08:26,752 [main] INFO Functional - open url
+2021-04-23 18:08:27,866 [main] INFO Functional - open url
+2021-04-23 18:08:27,866 [main] INFO Functional - SigIn into the website
+2021-04-23 18:08:28,321 [main] INFO Functional - Verified The Title Page
+2021-04-23 18:12:41,080 [main] INFO Functional - open url
+2021-04-23 18:12:42,036 [main] INFO Functional - open url
+2021-04-23 18:12:43,099 [main] INFO Functional - open url
+2021-04-23 18:12:43,099 [main] INFO Functional - SigIn into the website
+2021-04-23 18:12:43,544 [main] INFO Functional - Verified The Title Page
+2021-04-23 18:34:38,766 [main] INFO Functional - open url
+2021-04-23 18:34:39,724 [main] INFO Functional - open url
+2021-04-23 18:34:40,735 [main] INFO Functional - open url
+2021-04-23 18:34:40,735 [main] INFO Functional - SigIn into the website
+2021-04-23 18:34:41,214 [main] INFO Functional - Verified The Title Page
+2021-04-23 19:23:38,025 [main] INFO Functional - open url
+2021-04-23 19:23:42,242 [main] INFO Functional - open url
+2021-04-23 19:23:43,301 [main] INFO Functional - open url
+2021-04-23 19:23:43,302 [main] INFO Functional - SigIn into the website
+2021-04-23 19:23:43,750 [main] INFO Functional - Verified The Title Page
+2021-04-24 10:20:08,266 [main] INFO Functional - open url
+2021-04-24 10:20:08,896 [main] INFO Functional - open url
+2021-04-24 10:20:14,933 [main] INFO Functional - open url
+2021-04-24 10:20:14,934 [main] INFO Functional - SigIn into the website
+2021-04-24 10:20:46,914 [main] INFO Functional - open url
+2021-04-24 10:20:47,644 [main] INFO Functional - open url
+2021-04-24 10:21:07,732 [main] INFO Functional - open url
+2021-04-24 10:21:07,733 [main] INFO Functional - SigIn into the website
+2021-04-24 10:23:43,236 [main] INFO Functional - open url
+2021-04-24 10:23:43,887 [main] INFO Functional - open url
+2021-04-24 10:24:04,019 [main] INFO Functional - open url
+2021-04-24 10:24:04,019 [main] INFO Functional - SigIn into the website
+2021-04-24 10:27:57,493 [main] INFO Functional - open url
+2021-04-24 10:27:57,497 [main] INFO Functional - SigIn into the website
+2021-04-24 10:27:58,089 [main] INFO Functional - Verified The Title Page
+2021-04-24 10:27:58,451 [main] INFO Functional - open url
+2021-04-24 10:28:08,508 [main] INFO Functional - open url
+2021-04-24 10:36:41,139 [main] INFO Functional - open url
+2021-04-24 10:36:41,144 [main] INFO Functional - SigIn into the website
+2021-04-24 10:36:41,721 [main] INFO Functional - Verified The Title Page
+2021-04-24 10:36:42,373 [main] INFO Functional - open url
+2021-04-24 10:36:43,297 [main] INFO Functional - open url
+2021-04-24 10:37:37,869 [main] INFO Functional - open url
+2021-04-24 10:37:37,875 [main] INFO Functional - SigIn into the website
+2021-04-24 10:37:49,847 [main] INFO Functional - open url
+2021-04-24 10:38:02,050 [main] INFO Functional - open url
+2021-04-24 10:38:18,825 [main] INFO Functional - open url
+2021-04-24 10:38:18,829 [main] INFO Functional - SigIn into the website
+2021-04-24 10:38:28,919 [main] INFO Functional - open url
+2021-04-24 10:38:38,960 [main] INFO Functional - open url
+2021-04-24 10:39:32,440 [main] INFO Functional - open url
+2021-04-24 10:39:32,444 [main] INFO Functional - SigIn into the website
+2021-04-24 10:39:33,061 [main] INFO Functional - Verified The Title Page
+2021-04-24 10:39:33,444 [main] INFO Functional - open url
+2021-04-24 10:39:43,497 [main] INFO Functional - open url
+2021-04-24 10:52:50,746 [main] INFO Functional - open url
+2021-04-24 10:52:50,750 [main] INFO Functional - SigIn into the website
+2021-04-24 10:52:51,317 [main] INFO Functional - Verified The Title Page
+2021-04-24 10:52:52,017 [main] INFO Functional - open url
+2021-04-24 10:52:52,847 [main] INFO Functional - open url
+2021-04-24 10:53:41,733 [main] INFO Functional - open url
+2021-04-24 10:53:41,738 [main] INFO Functional - SigIn into the website
+2021-04-24 10:53:42,434 [main] INFO Functional - Verified The Title Page
+2021-04-24 10:53:43,187 [main] INFO Functional - open url
+2021-04-24 10:53:44,040 [main] INFO Functional - open url
